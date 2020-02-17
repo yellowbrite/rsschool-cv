@@ -19,7 +19,7 @@ I have no code examples so far.*
 I have completed several main courses on [htmlacademy.ru](https://htmlacademy.ru/profile/id1360921/achievements)
 
 ## Education:
-I am a certified teacher of English and French Languages.
+Graduated from Smolensk State University in 2013, department of foreign languages.
 
 ## Level of English:
-Advanced. 
+Advanced. I am a certified teacher of English and French Languages.

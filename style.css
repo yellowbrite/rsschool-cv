@@ -1,3 +1,18 @@
 body {
-    color: green;
+    color: rgb(90, 27, 90);
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+.align {
+    max-width: 1024px;
+    margin: 30px auto;
+}
+h1, h2, p, ul {
+    margin: 15px 0;
+}
+.photo {
+    text-align: center;
+    float: right;
+}
+p, ul {
+    color: rgb(13, 53, 99);
 }
